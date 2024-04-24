@@ -1,0 +1,21 @@
+.btn-section{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   gap: 1rem;
+
+  
+}
+
+.btn{
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: 0;
+    padding: 1rem;
+    margin: 2rem;
+}
+
+.btn:hover{
+    background-color: rgb(246, 169, 114);
+    z-index: 3rem;
+}
